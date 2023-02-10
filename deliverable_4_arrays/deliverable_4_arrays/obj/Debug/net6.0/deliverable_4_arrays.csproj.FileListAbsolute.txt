@@ -1,0 +1,15 @@
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/bin/Debug/net6.0/deliverable_4_arrays
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/bin/Debug/net6.0/deliverable_4_arrays.deps.json
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/bin/Debug/net6.0/deliverable_4_arrays.runtimeconfig.json
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/bin/Debug/net6.0/deliverable_4_arrays.dll
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/bin/Debug/net6.0/deliverable_4_arrays.pdb
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.csproj.AssemblyReference.cache
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.AssemblyInfoInputs.cache
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.AssemblyInfo.cs
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.csproj.CoreCompileInputs.cache
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.dll
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/refint/deliverable_4_arrays.dll
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.pdb
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/deliverable_4_arrays.genruntimeconfig.cache
+/Users/khushiudupi/Desktop/deliverable_4_arrays/deliverable_4_arrays/obj/Debug/net6.0/ref/deliverable_4_arrays.dll
